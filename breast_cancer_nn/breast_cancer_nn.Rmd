@@ -1,7 +1,7 @@
 ---
 title: "Example of an Artificial Neural Network in the Medical Field"
-author: "Arturo Laflor"
-date: "21 de octubre de 2016"
+author: "DA4IH Group"
+date: "Octubre de 2016"
 output: html_document
 runtime: shiny
 ---
